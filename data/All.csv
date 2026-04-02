@@ -1,0 +1,39 @@
+Temperature (C),Meat-5.0-Log,Meat-6.5-Log,Meat-7.0-Log,Chicken-7.0-Log (1% fat),Chicken-7.0-Log (2% fat),Chicken-7.0-Log (3% fat),Chicken-7.0-Log (4% fat),Chicken-7.0-Log (5% fat),Chicken-7.0-Log (6% fat),Chicken-7.0-Log (7% fat),Chicken-7.0-Log (8% fat),Chicken-7.0-Log (9% fat),Chicken-7.0-Log (10% fat),Chicken-7.0-Log (11% fat),Chicken-7.0-Log (12% fat),Turkey-7.0-Log (1% fat),Turkey-7.0-Log (2% fat),Turkey-7.0-Log (3% fat),Turkey-7.0-Log (4% fat),Turkey-7.0-Log (5% fat),Turkey-7.0-Log (6% fat),Turkey-7.0-Log (7% fat),Turkey-7.0-Log (8% fat),Turkey-7.0-Log (9% fat),Turkey-7.0-Log (10% fat),Turkey-7.0-Log (11% fat),Turkey-7.0-Log (12% fat)
+54.4,5160 sec,6720 sec,7260 sec,,,,,,,,,,,,,,,,,,,,,,,,
+55.0,4140 sec,5340 sec,5820 sec,,,,,,,,,,,,,,,,,,,,,,,,
+55.6,3300 sec,4260 sec,4620 sec,,,,,,,,,,,,,,,,,,,,,,,,
+56.1,2640 sec,3360 sec,3720 sec,,,,,,,,,,,,,,,,,,,,,,,,
+56.7,2100 sec,2700 sec,2820 sec,,,,,,,,,,,,,,,,,,,,,,,,
+57.2,1680 sec,2160 sec,2220 sec,,,,,,,,,,,,,,,,,,,,,,,,
+57.8,1320 sec,1680 sec,1920 sec,3798 sec,3870 sec,3942 sec,4020 sec,4104 sec,4194 sec,4284 sec,4380 sec,4488 sec,4602 sec,4734 sec,4884 sec,3840 sec,3858 sec,3876 sec,3894 sec,3918 sec,3948 sec,3978 sec,4014 sec,4056 sec,4104 sec,4170 sec,4248 sec
+58.3,,,,3006 sec,3060 sec,3126 sec,3192 sec,3258 sec,3330 sec,3408 sec,3492 sec,3582 sec,3684 sec,3798 sec,3930 sec,3114 sec,3132 sec,3144 sec,3168 sec,3192 sec,3216 sec,3246 sec,3282 sec,3318 sec,3372 sec,3432 sec,3510 sec
+58.4,1080 sec,1380 sec,1440 sec,,,,,,,,,,,,,,,,,,,,,,,,
+58.9,840 sec,1080 sec,1140 sec,2382 sec,2430 sec,2478 sec,2532 sec,2592 sec,2652 sec,2718 sec,2784 sec,2862 sec,2952 sec,3054 sec,3174 sec,2532 sec,2550 sec,2562 sec,2580 sec,2604 sec,2628 sec,2652 sec,2688 sec,2724 sec,2772 sec,2832 sec,2910 sec
+59.4,,,,1896 sec,1932 sec,1974 sec,2016 sec,2064 sec,2112 sec,2172 sec,2232 sec,2298 sec,2376 sec,2466 sec,2580 sec,2064 sec,2076 sec,2094 sec,2106 sec,2124 sec,2148 sec,2172 sec,2202 sec,2238 sec,2286 sec,2346 sec,2424 sec
+59.5,660 sec,900 sec,900 sec,,,,,,,,,,,,,,,,,,,,,,,,
+60.0,540 sec,720 sec,720 sec,1512 sec,1542 sec,1572 sec,1608 sec,1650 sec,1692 sec,1740 sec,1788 sec,1848 sec,1920 sec,2004 sec,2100 sec,1686 sec,1698 sec,1710 sec,1722 sec,1740 sec,1758 sec,1782 sec,1812 sec,1848 sec,1890 sec,1950 sec,2022 sec
+60.6,420 sec,540 sec,600 sec,1206 sec,1230 sec,1260 sec,1290 sec,1320 sec,1356 sec,1392 sec,1440 sec,1494 sec,1554 sec,1626 sec,1722 sec,1380 sec,1392 sec,1398 sec,1410 sec,1428 sec,1446 sec,1464 sec,1494 sec,1530 sec,1572 sec,1626 sec,1692 sec
+61.1,360 sec,480 sec,480 sec,966 sec,984 sec,1008 sec,1032 sec,1056 sec,1086 sec,1122 sec,1164 sec,1206 sec,1260 sec,1326 sec,1410 sec,1134 sec,1140 sec,1146 sec,1158 sec,1170 sec,1188 sec,1206 sec,1230 sec,1266 sec,1302 sec,1356 sec,1422 sec
+61.7,300 sec,360 sec,360 sec,780 sec,792 sec,810 sec,828 sec,852 sec,876 sec,906 sec,936 sec,978 sec,1026 sec,1086 sec,1158 sec,930 sec,936 sec,942 sec,954 sec,966 sec,978 sec,996 sec,1020 sec,1044 sec,1080 sec,1128 sec,1188 sec
+62.2,240 sec,300 sec,300 sec,624 sec,636 sec,648 sec,666 sec,684 sec,708 sec,732 sec,756 sec,792 sec,834 sec,888 sec,954 sec,768 sec,768 sec,774 sec,780 sec,792 sec,804 sec,822 sec,840 sec,864 sec,900 sec,942 sec,996 sec
+62.8,180 sec,240 sec,240 sec,504 sec,516 sec,522 sec,534 sec,552 sec,570 sec,588 sec,612 sec,642 sec,678 sec,726 sec,780 sec,630 sec,636 sec,636 sec,642 sec,648 sec,660 sec,678 sec,690 sec,714 sec,744 sec,780 sec,828 sec
+63.3,130 sec,169 sec,182 sec,408 sec,414 sec,420 sec,432 sec,444 sec,456 sec,474 sec,492 sec,516 sec,546 sec,588 sec,636 sec,522 sec,522 sec,522 sec,528 sec,534 sec,540 sec,552 sec,570 sec,588 sec,612 sec,648 sec,690 sec
+63.9,103 sec,134 sec,144 sec,330 sec,330 sec,336 sec,342 sec,354 sec,366 sec,378 sec,396 sec,414 sec,444 sec,474 sec,516 sec,426 sec,426 sec,426 sec,432 sec,438 sec,444 sec,450 sec,462 sec,480 sec,504 sec,528 sec,564 sec
+64.4,82 sec,107 sec,115 sec,264 sec,264 sec,270 sec,270 sec,282 sec,288 sec,300 sec,312 sec,330 sec,348 sec,378 sec,408 sec,348 sec,348 sec,348 sec,348 sec,354 sec,360 sec,366 sec,378 sec,390 sec,408 sec,432 sec,462 sec
+65.0,65 sec,85 sec,91 sec,210 sec,210 sec,210 sec,216 sec,216 sec,228 sec,234 sec,246 sec,258 sec,276 sec,294 sec,324 sec,282 sec,282 sec,282 sec,282 sec,282 sec,288 sec,294 sec,300 sec,312 sec,324 sec,348 sec,372 sec
+65.6,52 sec,67 sec,72 sec,162 sec,162 sec,162 sec,162 sec,168 sec,174 sec,180 sec,186 sec,198 sec,210 sec,228 sec,252 sec,228 sec,222 sec,222 sec,222 sec,222 sec,228 sec,234 sec,240 sec,246 sec,258 sec,270 sec,294 sec
+66.1,41 sec,54 sec,58 sec,126 sec,120 sec,120 sec,126 sec,126 sec,126 sec,132 sec,138 sec,150 sec,156 sec,174 sec,186 sec,180 sec,174 sec,174 sec,174 sec,174 sec,174 sec,180 sec,186 sec,192 sec,198 sec,210 sec,228 sec
+66.7,33 sec,43 sec,46 sec,90 sec,90 sec,90 sec,96 sec,96 sec,96 sec,102 sec,102 sec,108 sec,114 sec,126 sec,138 sec,138 sec,138 sec,138 sec,138 sec,138 sec,138 sec,138 sec,138 sec,144 sec,150 sec,162 sec,168 sec
+67.2,26 sec,34 sec,37 sec,72 sec,72 sec,72 sec,72 sec,78 sec,78 sec,78 sec,78 sec,84 sec,84 sec,84 sec,96 sec,108 sec,108 sec,114 sec,114 sec,114 sec,114 sec,114 sec,114 sec,114 sec,114 sec,114 sec,126 sec
+67.8,21 sec,27 sec,29 sec,56 sec,57 sec,58 sec,59 sec,60 sec,60 sec,60 sec,66 sec,66 sec,66 sec,66 sec,66 sec,90 sec,90 sec,90 sec,90 sec,90 sec,90 sec,90 sec,90 sec,90 sec,96 sec,96 sec,96 sec
+68.3,17 sec,22 sec,23 sec,44 sec,45 sec,46 sec,47 sec,48 sec,49 sec,50 sec,50 sec,51 sec,52 sec,53 sec,54 sec,72 sec,72 sec,72 sec,72 sec,72 sec,72 sec,78 sec,78 sec,78 sec,78 sec,78 sec,78 sec
+68.9,14 sec,17 sec,19 sec,35 sec,36 sec,36 sec,37 sec,38 sec,38 sec,39 sec,40 sec,41 sec,41 sec,42 sec,43 sec,59 sec,59 sec,60 sec,60 sec,60 sec,60 sec,60 sec,60 sec,60 sec,60 sec,60 sec,60 sec
+69.4,11 sec,14 sec,15 sec,28 sec,28 sec,29 sec,29 sec,30 sec,30 sec,31 sec,32 sec,32 sec,33 sec,33 sec,34 sec,48 sec,48 sec,48 sec,48 sec,49 sec,49 sec,49 sec,50 sec,50 sec,50 sec,50 sec,50 sec
+70.0,0 sec,0 sec,0 sec,22 sec,22 sec,23 sec,23 sec,24 sec,24 sec,24 sec,25 sec,25 sec,26 sec,26 sec,27 sec,39 sec,39 sec,39 sec,39 sec,40 sec,40 sec,40 sec,40 sec,40 sec,40 sec,41 sec,41 sec
+70.6,0 sec,0 sec,0 sec,17 sec,18 sec,18 sec,18 sec,19 sec,19 sec,19 sec,20 sec,20 sec,20 sec,21 sec,21 sec,32 sec,32 sec,32 sec,32 sec,32 sec,32 sec,32 sec,33 sec,33 sec,33 sec,33 sec,33 sec
+71.1,0 sec,0 sec,0 sec,14 sec,14 sec,14 sec,14 sec,15 sec,15 sec,15 sec,16 sec,16 sec,16 sec,16 sec,17 sec,26 sec,26 sec,26 sec,26 sec,26 sec,26 sec,26 sec,26 sec,27 sec,27 sec,27 sec,27 sec
+71.7,,,,11 sec,11 sec,11 sec,12 sec,12 sec,12 sec,12 sec,12 sec,13 sec,13 sec,13 sec,13 sec,21 sec,21 sec,21 sec,21 sec,21 sec,21 sec,21 sec,22 sec,22 sec,22 sec,22 sec,22 sec
+72.2,,,,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,10 sec,10 sec,10 sec,10 sec,10 sec,10 sec,17 sec,17 sec,17 sec,17 sec,17 sec,17 sec,17 sec,17 sec,18 sec,18 sec,18 sec,18 sec
+72.8,,,,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec,14 sec
+73.3,,,,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,11 sec,11 sec,11 sec,11 sec,11 sec,11 sec,11 sec,12 sec,12 sec,12 sec,12 sec,12 sec
+73.9,,,,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec,0 sec
